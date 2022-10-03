@@ -1,0 +1,13 @@
+C:\Users\Martina\source\repos\Mono1\Mono1\bin\Debug\netcoreapp3.1\Mono1.exe
+C:\Users\Martina\source\repos\Mono1\Mono1\bin\Debug\netcoreapp3.1\Mono1.deps.json
+C:\Users\Martina\source\repos\Mono1\Mono1\bin\Debug\netcoreapp3.1\Mono1.runtimeconfig.json
+C:\Users\Martina\source\repos\Mono1\Mono1\bin\Debug\netcoreapp3.1\Mono1.runtimeconfig.dev.json
+C:\Users\Martina\source\repos\Mono1\Mono1\bin\Debug\netcoreapp3.1\Mono1.dll
+C:\Users\Martina\source\repos\Mono1\Mono1\bin\Debug\netcoreapp3.1\Mono1.pdb
+C:\Users\Martina\source\repos\Mono1\Mono1\obj\Debug\netcoreapp3.1\Mono1.csprojAssemblyReference.cache
+C:\Users\Martina\source\repos\Mono1\Mono1\obj\Debug\netcoreapp3.1\Mono1.AssemblyInfoInputs.cache
+C:\Users\Martina\source\repos\Mono1\Mono1\obj\Debug\netcoreapp3.1\Mono1.AssemblyInfo.cs
+C:\Users\Martina\source\repos\Mono1\Mono1\obj\Debug\netcoreapp3.1\Mono1.csproj.CoreCompileInputs.cache
+C:\Users\Martina\source\repos\Mono1\Mono1\obj\Debug\netcoreapp3.1\Mono1.dll
+C:\Users\Martina\source\repos\Mono1\Mono1\obj\Debug\netcoreapp3.1\Mono1.pdb
+C:\Users\Martina\source\repos\Mono1\Mono1\obj\Debug\netcoreapp3.1\Mono1.genruntimeconfig.cache
